@@ -4914,6 +4914,10 @@ textarea.form-control-lg {
   list-style: none;
 }
 
+ul{
+  list-style: none;
+}
+
 .page-link {
   position: relative;
   display: block;
